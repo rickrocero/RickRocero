@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Banner](./images/Banner3.png)](https://rickrocero.com/)
 
+# Hello, World! 🌎
 
+My name is Rick Rocero 
