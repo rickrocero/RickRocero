@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Banner](./images/Banner3.png)](https://rickrocero.com/)
+[![Banner](./images/Banner5.png)](https://rickrocero.com/)
 
 # Hello, World! 🌎
 
@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 # 💻 Skills
 
-![Skills](./images/Skills2.png)
+![Skills](./images/Skills3.png)
