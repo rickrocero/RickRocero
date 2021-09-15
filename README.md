@@ -19,4 +19,8 @@ Here are some ideas to get you started:
 
 # Hello, World! 🌎
 
-My name is Rick Rocero 
+### My name's Rick Rocero: A persistent coder and continuous learner who enjoys building full stack web apps and computer programs.
+
+# 💻 Skills
+
+![Skills](./images/Skills2.png)
