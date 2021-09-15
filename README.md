@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 # 💻 Skills
 
-![Skills](./images/Skills3.png)
+![Skills](./images/Skills.png)
